@@ -67,3 +67,24 @@ input {
 .search {
   position: relative;
 }
+
+#HomeIcon {
+  position: relative;
+}
+
+#homeDot {
+  width: 10px;
+  height: 10px;
+  border-radius: 70%;
+  background-color: white;
+  border: 5px solid red;
+  position: absolute;
+  top: 8px;
+  left: 45px;
+  }
+
+#notifications {
+  position: relative;
+}
+
+
