@@ -48,3 +48,18 @@ input {
 #business {
   border-left: 1px solid black;
 }
+
+#searchIcon {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  left: 30px;
+  top: 5px;
+}
+
+#searchInput {
+  width: 300px;
+  height: 30px;
+  border-radius: 15px;
+  padding-left: 30px;
+}
