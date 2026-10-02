@@ -30,6 +30,7 @@ h5 {
     cursor: pointer;
     position: relative;
     bottom: 2px;
+    border-bottom: 2px solid black;
   }
 }
 
